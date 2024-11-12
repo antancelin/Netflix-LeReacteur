@@ -1,5 +1,7 @@
 # Netflix
 
+site déployé ➡️ [Netflix](https://antancelin-react-comp.netlify.app/)
+
 Afin de vous familiariser avec React et les composants, vous devrez réaliser une copie de la homepage de Netflix.
 
 Maquette à réaliser :
