@@ -72,4 +72,8 @@ footer a {
   main {
     margin-left: 10px;
   }
+
+  footer {
+    font-size: 14px;
+  }
 }
